@@ -34,7 +34,7 @@ async def main():
     await run_async_inline()
     logs.info("Successfully Deployed !!")
     await run_async_calls()
-    logs.info("Do Visit - @DAXXServer")
+    logs.info("Do Visit - @DAXXSUPPORT")
     await idle()
 
 

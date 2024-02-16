@@ -26,7 +26,7 @@ Daxx Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [DAXX Server](https://t.me/DAXXServer).**
+🌷Powered By : [DAXX Server](https://t.me/DAXXSUPPORT).**
             """,
             reply_markup=InlineKeyboardMarkup(button),
         )
@@ -47,7 +47,7 @@ Daxx Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [DAXX Server](https://t.me/DAXXServer).**""",
+🌷Powered By : [DAXX Server](https://t.me/DAXXSUPPORT).**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),

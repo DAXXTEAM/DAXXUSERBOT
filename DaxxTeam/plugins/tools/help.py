@@ -62,7 +62,7 @@ Daxx Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [DAXX Server](https://t.me/DAXXServer).**
+🌷Powered By : [DAXX Server](https://t.me/DAXXSUPPORT).**
 """
     
     if plug_match:

@@ -66,7 +66,7 @@ ass = Client(
 )
 
 bot = Client(
-    name = "DAXXServer",
+    name = "DAXXSUPPORT",
     api_id = API_ID,
     api_hash = API_HASH,
     bot_token = BOT_TOKEN,
@@ -113,7 +113,7 @@ async def run_async_clients():
     except:
         pass
     try:
-        await app.join_chat("DAXXServer")
+        await app.join_chat("DAXXSUPPORT")
         await app.join_chat("DAXXDiscus")
     except:
         pass
@@ -126,7 +126,7 @@ async def run_async_clients():
         except:
             pass
         try:
-            await app.join_chat("DAXXServer")
+            await app.join_chat("DAXXSUPPORT")
             await app.join_chat("DAXXDiscus")
         except:
             pass
