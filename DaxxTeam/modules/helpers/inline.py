@@ -18,7 +18,7 @@ async def help_menu_logo(answer):
             photo_url=f"{thumb_image}",
             title="🥀 Help Menu ✨",
             thumb_url=f"{thumb_image}",
-            description=f"🥀 Open Help Menu Of Daxx-Userbot ✨...",
+            description=f"🥀 Open Help Menu Of DAXXUSERBOT ✨...",
             caption=f"""
 **🥀 Welcome To Help Menu Of
 Daxx Userbot » {__version__} ✨...

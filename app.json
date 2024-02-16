@@ -1,14 +1,14 @@
 {
-    "name": "Daxx-Userbot",
-    "description": "Daxx-Userbot is an advanced & powerful multi-featured Telegram userbot.",
+    "name": "DAXXUSERBOT",
+    "description": "DAXXUSERBOT is an advanced & powerful multi-featured Telegram userbot.",
     "logo": "https://graph.org/file/292b9dfe74532e7174fd2.png",
     "keywords": [
-        "Daxx-userbot",
+        "DAXXUSERBOT",
         "telegram-userbot",
         "telegram-music-bot",
         "telegram-video-bot"
     ],
-    "repository": "https://github.com/DaxxTeam/Daxx-Userbot",
+    "repository": "https://github.com/DaxxTeam/DAXXUSERBOT",
     "stack": "container",
     "env": {
         "API_ID": {
